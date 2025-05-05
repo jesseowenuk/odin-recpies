@@ -1,0 +1,55 @@
+/* Styles */
+
+* {
+    box-sizing: border-box;
+    padding: 0;
+    margin: 0;
+}
+
+body {
+    background-color:azure;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.content-container {
+    width: 600px;
+    margin: auto;
+    border: 1px SOLID #000000;
+    margin-top: 15px;
+    margin-bottom: 15px;
+    background-color: #fff;
+    padding: 15px;
+}
+
+.recipe-index li {
+    margin: 15px;
+}
+
+h1 {
+    font-size: 32px;
+}
+
+h2 {
+    font-size: 26px;
+    padding: 10px 0;
+}
+
+img {
+    width: 500px;
+    margin: auto;
+    display: block;
+    padding: 16px;
+}
+
+p {
+    padding: 8px 0;
+}
+
+.recipe-ingredients li,
+.recipe-steps li {
+    margin: 12px 12px 12px 32px;
+}
+
+.recipe-steps {
+    margin-top: 8px;
+}

@@ -9,3 +9,4 @@ This is a project which I will be using to following along with The Odin Project
 * How to use links
 * How to use unordered lists
 * How to use ordered lists
+* How to use various CSS styles to control the look of the page
